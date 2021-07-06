@@ -1,0 +1,29 @@
+h6{
+    letter-spacing:2px;
+}
+
+div.cardd{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    
+    display: none;
+}
+
+
+div.second-icon{
+position: relative;
+top: -40px;
+width: 70px;
+height: 70px;
+border-radius: 50%;
+
+}
+div.second-icon img{
+    width: 70px;
+    height: 70px;
+}
+.detail .status{
+    font-size: 13px;
+}
+.detail .temp{
+    font-size: 45px;
+}
